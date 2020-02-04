@@ -1,0 +1,33 @@
+body {
+  background-color: #99a2bc;
+  color: red;
+}
+
+#selected-toppings {
+  display: none;
+}
+
+#selected-venue {
+  display: none;
+}
+
+#selected-size {
+  display: none;
+}
+
+img {
+  max-width: 300px;
+  border-radius: 50%;
+}
+
+#result-kramer {
+  display: none;
+}
+
+#result-dwight {
+  display: none;
+}
+
+#result-veronica {
+  display: none;
+}
